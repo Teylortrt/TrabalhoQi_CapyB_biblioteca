@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_register_screen">Cadastro</string>
+    <string name="input_email">Digite seu email</string>
+    <string name="input_password">"Crie sua senha "</string>
+    <string name="input_repeat_password">Confirme sua senha</string>
+    <string name="button_enter">Cadastrar</string>
+</resources>

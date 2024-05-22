@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">CapyB</string>
+    <string name="title_register_screen">Register</string>
+    <string name="input_email">Enter your email</string>
+    <string name="input_password">Create your password</string>
+    <string name="input_repeat_password">Confirm your senha</string>
+    <string name="button_enter">Cadastre</string>
+</resources>
